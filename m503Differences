@@ -1,0 +1,7 @@
+COMMAND // Original Creality Board                      // Bigtree SKR Mini e3 Board
+
+M203 // Z10.00 E50.00                                   // Z5.00 E25.00
+M204 // R1000.00                                        // R500.00
+     // Advanced: B<min_segment_time_ms> X<max_xy_jerk> // Advanced: B<min_segment_time_us> X<max_x_jerk> Y<max_y_jerk>
+
+M205 // X8.00 Y8.00 Z0.40                               // X10.00 Y10.00 Z0.30 E5.00
